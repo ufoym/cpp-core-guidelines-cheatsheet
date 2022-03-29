@@ -1,5 +1,5 @@
 # cpp-core-guidelines-cheatsheet
- Cheatsheet for the C++ core guidelines, including a set of tried-and-true guidelines, rules, and best practices about coding in C++.
+ Cheatsheet for [the C++ core guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) (by Bjarne Stroustrup & Herb Sutter), including a set of tried-and-true guidelines, rules, and best practices about coding in C++.
 
 
 - [x] P: Philosophy
